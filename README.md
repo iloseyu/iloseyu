@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![iloseyu's Pounding Time!](https://wakatime.com/badge/user/018d3532-9342-4ca7-b4a6-c0b4c84dbfa6.svg)](https://wakatime.com/@018d3532-9342-4ca7-b4a6-c0b4c84dbfa6)
+
 <!--
 **iloseyu/iloseyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
